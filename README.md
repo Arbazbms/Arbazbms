@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Arbaz Ahmed Github Stats](https://github-readme-stats.vercel.app/api?username=Arbazbms&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arbazbms)](https://github.com/Arbazbms/github-readme-stats)
 
 
 
