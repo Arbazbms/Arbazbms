@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Arbaz Ahmed Github Stats](https://github-readme-stats.vercel.app/api?username=Arbazbms&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbazbms&layout=compact)](https://github.com/Arbazbms/github-readme-stats)
 
 
 - 📫 Reach Me Here:--
