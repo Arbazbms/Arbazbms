@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Arbaz Ahmed Github Stats](https://github-readme-stats.vercel.app/api?username=Arbazbms&show_icons=true&theme=gradient)
+![Arbaz Ahmed Github Stats](https://github-readme-stats.vercel.app/api?username=Arbazbms&show_icons=true&theme=midnight-purple)
 
 
 
