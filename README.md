@@ -2,9 +2,6 @@
 ![Arbaz Ahmed Github Stats](https://github-readme-stats.vercel.app/api?username=Arbazbms&show_icons=true&theme=midnight-purple&count_private=1&include_all_commits=1)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arbazbms&repo=competitive-programming)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 - 📫 Reach Me Here:--
 
