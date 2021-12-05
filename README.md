@@ -3,6 +3,10 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbazbms&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 - 📫 Reach Me Here:--
 
 
